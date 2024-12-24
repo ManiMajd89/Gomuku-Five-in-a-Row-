@@ -2,6 +2,7 @@
 
 This Python project implements the classic Gomoku game, where a player competes against an AI to achieve five consecutive stones on an 8x8 board. The AI uses strategic scoring functions to make optimal moves, while the program ensures valid gameplay, detects win conditions, and provides game state analysis.
 
+Mani Majd and Eric Huang
 ## Features
 
 ### Core Gameplay
