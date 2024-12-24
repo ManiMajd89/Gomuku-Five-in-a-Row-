@@ -1,3 +1,6 @@
+# Gomuku (Five in a Row) Project - ESC180 Project
+# Work done by Mani Majd and Eric Huang
+
 import random
 
 def is_empty(board: list) -> bool:
